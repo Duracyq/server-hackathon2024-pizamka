@@ -14,4 +14,4 @@ pip install -r requirements.txt
 uvicorn server:server --reload
 
 # PROJECT
-LINK: https://github.com/Duracyq/server-hackathon2024-pizamka
+LINK: https://github.com/Duracyq/hackathon2024_pizamka
