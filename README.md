@@ -12,3 +12,6 @@ nodemon server.js
 source ./env/bin/activate
 pip install -r requirements.txt
 uvicorn server:server --reload
+
+# PROJECT
+LINK: https://github.com/Duracyq/server-hackathon2024-pizamka
