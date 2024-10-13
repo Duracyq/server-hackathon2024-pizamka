@@ -1,0 +1,947 @@
+[
+    {
+        "Adres":"3 Maja",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Al. Stanis\u0142awa Jachowicza",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"B\u0142onie",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Dojazd",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Jana Kili\u0144skiego",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"gen. Jaros\u0142awa D\u0105browskiego",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Harcerza Antolka Gradowskiego",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Henryka Sienkiewicza",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Kolegialna",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Kr\u00f3lewiecka",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Kupiecka",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Misjonarska",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Mostowa",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Pasa\u017c",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Pi\u0119kna",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Tadeusza Ko\u015bciuszki",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Tumska",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Warszawska",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Zacisze",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Zygmunta Padlewskiego",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Nowy Rynek",
+        "Rodzaj wywozu":"Zmieszane (pozosta\u0142o\u015bci po segregacji)",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"3 Maja",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Al. Stanis\u0142awa Jachowicza",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"B\u0142onie",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Dojazd",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Jana Kili\u0144skiego",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"gen. Jaros\u0142awa D\u0105browskiego",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Harcerza Antolka Gradowskiego",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Henryka Sienkiewicza",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Kolegialna",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Kr\u00f3lewiecka",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Kupiecka",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Misjonarska",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Mostowa",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Pasa\u017c",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Pi\u0119kna",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Tadeusza Ko\u015bciuszki",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Tumska",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Warszawska",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Zacisze",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Zygmunta Padlewskiego",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Nowy Rynek",
+        "Rodzaj wywozu":"Bio",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"3 Maja",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Al. Stanis\u0142awa Jachowicza",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"B\u0142onie",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Dojazd",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Jana Kili\u0144skiego",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"gen. Jaros\u0142awa D\u0105browskiego",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Harcerza Antolka Gradowskiego",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Henryka Sienkiewicza",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Kolegialna",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Kr\u00f3lewiecka",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Kupiecka",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Misjonarska",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Mostowa",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Pasa\u017c",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Pi\u0119kna",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Tadeusza Ko\u015bciuszki",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Tumska",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Warszawska",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Zacisze",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Zygmunta Padlewskiego",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Nowy Rynek",
+        "Rodzaj wywozu":"Metale i tworzywa sztuczne",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"3 Maja",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Al. Stanis\u0142awa Jachowicza",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"B\u0142onie",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Dojazd",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Jana Kili\u0144skiego",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"gen. Jaros\u0142awa D\u0105browskiego",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Harcerza Antolka Gradowskiego",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Henryka Sienkiewicza",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Kolegialna",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Kr\u00f3lewiecka",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Kupiecka",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Misjonarska",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Mostowa",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Pasa\u017c",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Pi\u0119kna",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Tadeusza Ko\u015bciuszki",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Tumska",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Warszawska",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Zacisze",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Zygmunta Padlewskiego",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Nowy Rynek",
+        "Rodzaj wywozu":"Papier",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"3 Maja",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Al. Stanis\u0142awa Jachowicza",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"B\u0142onie",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Dojazd",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Jana Kili\u0144skiego",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"gen. Jaros\u0142awa D\u0105browskiego",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Harcerza Antolka Gradowskiego",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Henryka Sienkiewicza",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Kolegialna",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Kr\u00f3lewiecka",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Kupiecka",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Misjonarska",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Mostowa",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Pasa\u017c",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Pi\u0119kna",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Tadeusza Ko\u015bciuszki",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Tumska",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Warszawska",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Zacisze",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Zygmunta Padlewskiego",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Nowy Rynek",
+        "Rodzaj wywozu":"Szk\u0142o",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"3 Maja",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Al. Stanis\u0142awa Jachowicza",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"B\u0142onie",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Dojazd",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Jana Kili\u0144skiego",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"gen. Jaros\u0142awa D\u0105browskiego",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Harcerza Antolka Gradowskiego",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Henryka Sienkiewicza",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Kolegialna",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Kr\u00f3lewiecka",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Kupiecka",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Misjonarska",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Mostowa",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Pasa\u017c",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Pi\u0119kna",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    },
+    {
+        "Adres":"Tadeusza Ko\u015bciuszki",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Tumska",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Warszawska",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+
+        ]
+    },
+    {
+        "Adres":"Zacisze",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1728000000.0,
+            1730505600.0
+        ]
+    },
+    {
+        "Adres":"Zygmunta Padlewskiego",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1727827200.0,
+            1730851200.0
+        ]
+    },
+    {
+        "Adres":"Nowy Rynek",
+        "Rodzaj wywozu":"Meble i inne odpady wielkogabarytowe",
+        "Timestamps":[
+            1728691200.0,
+            1730764800.0
+        ]
+    }
+]

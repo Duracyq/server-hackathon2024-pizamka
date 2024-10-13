@@ -1,0 +1,16 @@
+{
+    "meta": {
+      "senderAddress": "supprt@gmail.com",
+      "senderName": "Support WiseWaste"
+    },
+    "smtp": {
+      "enabled": true,
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "user": "hackathon2024pizamka@gmail.com",
+      "pass": "oxda zklu wbtl jjqv ",
+      "from": "support@gmail.com",
+      "secure": false
+    }
+  }
+  
